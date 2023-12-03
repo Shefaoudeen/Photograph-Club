@@ -3,7 +3,7 @@ import { Logo, halfCamera } from "../assets";
 const Home = () => {
   return (
     <section className="px-5">
-      <div className="w-[100%] flex-1 flex items-center justify-around max-sm:flex-col ">
+      <div className="w-[100%] flex-1 flex items-center justify-around max-sm:flex-col-reverse">
         <div className="w-[40%] flex flex-col max-sm:text-sm max-sm:w-full">
           <p className="text-center tracking-wide text-xl z-10 max-sm:py-4">
             Puducherry Technological University's
